@@ -40,7 +40,9 @@ class MainActivity : AppCompatActivity() {
         //added more line
 
         //added new comment
-        menuInflater.inflate(R.menu.menu_main, menu)
+//
+//        //add second line
+//        menuInflater.inflate(R.menu.menu_main, menu)
         return true
     }
 
