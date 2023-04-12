@@ -38,6 +38,7 @@ class MainActivity : AppCompatActivity() {
 //        // Inflate the menu; this adds items to the action bar if it is present.
 //
 //        //add second line
+         //add line with jira task branch
 //        menuInflater.inflate(R.menu.menu_main, menu)
         return true
     }
